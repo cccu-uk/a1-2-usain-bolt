@@ -97,7 +97,7 @@
             this.OptionFour.FlatAppearance.BorderSize = 0;
             this.OptionFour.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.OptionFour.ForeColor = System.Drawing.Color.White;
-            this.OptionFour.Location = new System.Drawing.Point(400, 470);
+            this.OptionFour.Location = new System.Drawing.Point(400, 475);
             this.OptionFour.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.OptionFour.Name = "OptionFour";
             this.OptionFour.Size = new System.Drawing.Size(162, 38);

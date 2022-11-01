@@ -135,8 +135,9 @@
             this.myButton1.Name = "myButton1";
             this.myButton1.Size = new System.Drawing.Size(162, 38);
             this.myButton1.TabIndex = 7;
-            this.myButton1.Text = "Coming Soon";
+            this.myButton1.Text = "Pop";
             this.myButton1.UseVisualStyleBackColor = false;
+            this.myButton1.Click += new System.EventHandler(this.myButton1_Click);
             // 
             // myButton2
             // 

@@ -34,6 +34,11 @@ namespace QuizApplicationSprintTwo
             Application.Run(new MoviePictureRounds());
         }
 
+        private void _musicRoundStart(object obj)
+        {
+            Application.Run(new MusicRound());
+        }
+
         private void MoviesPrStart_Click(object sender, EventArgs e)
         {
             this.Close();
@@ -60,6 +65,15 @@ namespace QuizApplicationSprintTwo
         {
             this.Close();
             mySwitch = new Thread(_ReturnToHomePage);
+            mySwitch.SetApartmentState(((ApartmentState)ApartmentState.STA));
+            mySwitch.Start();
+
+        }
+
+        private void myButton1_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            mySwitch = new Thread(_musicRoundStart);
             mySwitch.SetApartmentState(((ApartmentState)ApartmentState.STA));
             mySwitch.Start();
 
