@@ -32,10 +32,12 @@
             // 
             // TwoPlayerPictureRounds
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(13F, 32F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Yellow;
-            this.ClientSize = new System.Drawing.Size(1207, 1427);
+            this.ClientSize = new System.Drawing.Size(742, 548);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.Name = "TwoPlayerPictureRounds";
             this.Text = "TwoPlayerPictureRounds";
             this.ResumeLayout(false);

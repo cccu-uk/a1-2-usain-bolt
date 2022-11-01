@@ -42,9 +42,10 @@
             this.myButton1.FlatAppearance.BorderSize = 0;
             this.myButton1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.myButton1.ForeColor = System.Drawing.Color.White;
-            this.myButton1.Location = new System.Drawing.Point(66, 462);
+            this.myButton1.Location = new System.Drawing.Point(36, 217);
+            this.myButton1.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.myButton1.Name = "myButton1";
-            this.myButton1.Size = new System.Drawing.Size(300, 80);
+            this.myButton1.Size = new System.Drawing.Size(162, 38);
             this.myButton1.TabIndex = 0;
             this.myButton1.Text = "myButton1";
             this.myButton1.UseVisualStyleBackColor = false;
@@ -55,9 +56,10 @@
             this.myButton2.FlatAppearance.BorderSize = 0;
             this.myButton2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.myButton2.ForeColor = System.Drawing.Color.White;
-            this.myButton2.Location = new System.Drawing.Point(434, 462);
+            this.myButton2.Location = new System.Drawing.Point(234, 217);
+            this.myButton2.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.myButton2.Name = "myButton2";
-            this.myButton2.Size = new System.Drawing.Size(300, 80);
+            this.myButton2.Size = new System.Drawing.Size(162, 38);
             this.myButton2.TabIndex = 1;
             this.myButton2.Text = "myButton2";
             this.myButton2.UseVisualStyleBackColor = false;
@@ -68,9 +70,10 @@
             this.myButton3.FlatAppearance.BorderSize = 0;
             this.myButton3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.myButton3.ForeColor = System.Drawing.Color.White;
-            this.myButton3.Location = new System.Drawing.Point(803, 462);
+            this.myButton3.Location = new System.Drawing.Point(432, 217);
+            this.myButton3.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.myButton3.Name = "myButton3";
-            this.myButton3.Size = new System.Drawing.Size(300, 80);
+            this.myButton3.Size = new System.Drawing.Size(162, 38);
             this.myButton3.TabIndex = 2;
             this.myButton3.Text = "myButton3";
             this.myButton3.UseVisualStyleBackColor = false;
@@ -81,9 +84,10 @@
             this.myButton4.FlatAppearance.BorderSize = 0;
             this.myButton4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.myButton4.ForeColor = System.Drawing.Color.White;
-            this.myButton4.Location = new System.Drawing.Point(66, 604);
+            this.myButton4.Location = new System.Drawing.Point(36, 283);
+            this.myButton4.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.myButton4.Name = "myButton4";
-            this.myButton4.Size = new System.Drawing.Size(300, 80);
+            this.myButton4.Size = new System.Drawing.Size(162, 38);
             this.myButton4.TabIndex = 3;
             this.myButton4.Text = "myButton4";
             this.myButton4.UseVisualStyleBackColor = false;
@@ -94,9 +98,10 @@
             this.myButton5.FlatAppearance.BorderSize = 0;
             this.myButton5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.myButton5.ForeColor = System.Drawing.Color.White;
-            this.myButton5.Location = new System.Drawing.Point(434, 604);
+            this.myButton5.Location = new System.Drawing.Point(234, 283);
+            this.myButton5.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.myButton5.Name = "myButton5";
-            this.myButton5.Size = new System.Drawing.Size(300, 80);
+            this.myButton5.Size = new System.Drawing.Size(162, 38);
             this.myButton5.TabIndex = 4;
             this.myButton5.Text = "myButton5";
             this.myButton5.UseVisualStyleBackColor = false;
@@ -107,25 +112,28 @@
             this.myButton6.FlatAppearance.BorderSize = 0;
             this.myButton6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.myButton6.ForeColor = System.Drawing.Color.White;
-            this.myButton6.Location = new System.Drawing.Point(803, 604);
+            this.myButton6.Location = new System.Drawing.Point(432, 283);
+            this.myButton6.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.myButton6.Name = "myButton6";
-            this.myButton6.Size = new System.Drawing.Size(300, 80);
+            this.myButton6.Size = new System.Drawing.Size(162, 38);
             this.myButton6.TabIndex = 5;
             this.myButton6.Text = "myButton6";
             this.myButton6.UseVisualStyleBackColor = false;
             // 
             // TwoPlayerOptions
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(13F, 32F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Yellow;
-            this.ClientSize = new System.Drawing.Size(1242, 1567);
+            this.ClientSize = new System.Drawing.Size(742, 548);
             this.Controls.Add(this.myButton6);
             this.Controls.Add(this.myButton5);
             this.Controls.Add(this.myButton4);
             this.Controls.Add(this.myButton3);
             this.Controls.Add(this.myButton2);
             this.Controls.Add(this.myButton1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.Name = "TwoPlayerOptions";
             this.Text = "TwoPlayerOptions";
             this.ResumeLayout(false);

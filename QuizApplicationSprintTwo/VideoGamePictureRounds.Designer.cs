@@ -49,9 +49,10 @@
             this.OptionOne.FlatAppearance.BorderSize = 0;
             this.OptionOne.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.OptionOne.ForeColor = System.Drawing.Color.White;
-            this.OptionOne.Location = new System.Drawing.Point(241, 849);
+            this.OptionOne.Location = new System.Drawing.Point(130, 398);
+            this.OptionOne.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.OptionOne.Name = "OptionOne";
-            this.OptionOne.Size = new System.Drawing.Size(300, 80);
+            this.OptionOne.Size = new System.Drawing.Size(162, 38);
             this.OptionOne.TabIndex = 0;
             this.OptionOne.Tag = "1";
             this.OptionOne.Text = "myButton1";
@@ -64,9 +65,10 @@
             this.OptionTwo.FlatAppearance.BorderSize = 0;
             this.OptionTwo.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.OptionTwo.ForeColor = System.Drawing.Color.White;
-            this.OptionTwo.Location = new System.Drawing.Point(742, 849);
+            this.OptionTwo.Location = new System.Drawing.Point(400, 398);
+            this.OptionTwo.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.OptionTwo.Name = "OptionTwo";
-            this.OptionTwo.Size = new System.Drawing.Size(300, 80);
+            this.OptionTwo.Size = new System.Drawing.Size(162, 38);
             this.OptionTwo.TabIndex = 1;
             this.OptionTwo.Tag = "2";
             this.OptionTwo.Text = "myButton2";
@@ -79,9 +81,10 @@
             this.OptionThree.FlatAppearance.BorderSize = 0;
             this.OptionThree.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.OptionThree.ForeColor = System.Drawing.Color.White;
-            this.OptionThree.Location = new System.Drawing.Point(241, 1013);
+            this.OptionThree.Location = new System.Drawing.Point(130, 475);
+            this.OptionThree.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.OptionThree.Name = "OptionThree";
-            this.OptionThree.Size = new System.Drawing.Size(300, 80);
+            this.OptionThree.Size = new System.Drawing.Size(162, 38);
             this.OptionThree.TabIndex = 2;
             this.OptionThree.Tag = "3";
             this.OptionThree.Text = "myButton3";
@@ -94,9 +97,10 @@
             this.OptionFour.FlatAppearance.BorderSize = 0;
             this.OptionFour.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.OptionFour.ForeColor = System.Drawing.Color.White;
-            this.OptionFour.Location = new System.Drawing.Point(742, 1002);
+            this.OptionFour.Location = new System.Drawing.Point(400, 470);
+            this.OptionFour.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.OptionFour.Name = "OptionFour";
-            this.OptionFour.Size = new System.Drawing.Size(300, 80);
+            this.OptionFour.Size = new System.Drawing.Size(162, 38);
             this.OptionFour.TabIndex = 3;
             this.OptionFour.Tag = "4";
             this.OptionFour.Text = "myButton4";
@@ -109,9 +113,10 @@
             this.OptionFive.FlatAppearance.BorderSize = 0;
             this.OptionFive.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.OptionFive.ForeColor = System.Drawing.Color.White;
-            this.OptionFive.Location = new System.Drawing.Point(241, 1172);
+            this.OptionFive.Location = new System.Drawing.Point(130, 549);
+            this.OptionFive.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.OptionFive.Name = "OptionFive";
-            this.OptionFive.Size = new System.Drawing.Size(300, 80);
+            this.OptionFive.Size = new System.Drawing.Size(162, 38);
             this.OptionFive.TabIndex = 4;
             this.OptionFive.Tag = "5";
             this.OptionFive.Text = "myButton5";
@@ -124,9 +129,10 @@
             this.OptionSix.FlatAppearance.BorderSize = 0;
             this.OptionSix.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.OptionSix.ForeColor = System.Drawing.Color.White;
-            this.OptionSix.Location = new System.Drawing.Point(742, 1172);
+            this.OptionSix.Location = new System.Drawing.Point(400, 549);
+            this.OptionSix.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.OptionSix.Name = "OptionSix";
-            this.OptionSix.Size = new System.Drawing.Size(300, 80);
+            this.OptionSix.Size = new System.Drawing.Size(162, 38);
             this.OptionSix.TabIndex = 5;
             this.OptionSix.Tag = "6";
             this.OptionSix.Text = "myButton6";
@@ -136,9 +142,10 @@
             // QuestionPic
             // 
             this.QuestionPic.Image = global::QuizApplicationSprintTwo.Properties.Resources.Flight_sim;
-            this.QuestionPic.Location = new System.Drawing.Point(88, 163);
+            this.QuestionPic.Location = new System.Drawing.Point(47, 76);
+            this.QuestionPic.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.QuestionPic.Name = "QuestionPic";
-            this.QuestionPic.Size = new System.Drawing.Size(1113, 563);
+            this.QuestionPic.Size = new System.Drawing.Size(599, 264);
             this.QuestionPic.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.QuestionPic.TabIndex = 6;
             this.QuestionPic.TabStop = false;
@@ -149,9 +156,10 @@
             this.Return.FlatAppearance.BorderSize = 0;
             this.Return.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Return.ForeColor = System.Drawing.Color.White;
-            this.Return.Location = new System.Drawing.Point(12, 1);
+            this.Return.Location = new System.Drawing.Point(6, 0);
+            this.Return.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.Return.Name = "Return";
-            this.Return.Size = new System.Drawing.Size(155, 64);
+            this.Return.Size = new System.Drawing.Size(83, 30);
             this.Return.TabIndex = 7;
             this.Return.Text = "Back";
             this.Return.UseVisualStyleBackColor = false;
@@ -160,9 +168,10 @@
             // QuestionDisplay
             // 
             this.QuestionDisplay.AutoSize = true;
-            this.QuestionDisplay.Location = new System.Drawing.Point(241, 770);
+            this.QuestionDisplay.Location = new System.Drawing.Point(130, 361);
+            this.QuestionDisplay.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.QuestionDisplay.Name = "QuestionDisplay";
-            this.QuestionDisplay.Size = new System.Drawing.Size(78, 32);
+            this.QuestionDisplay.Size = new System.Drawing.Size(38, 15);
             this.QuestionDisplay.TabIndex = 8;
             this.QuestionDisplay.Text = "label1";
             // 
@@ -170,9 +179,10 @@
             // 
             this.Mute.BackgroundImage = global::QuizApplicationSprintTwo.Properties.Resources.MuteIcon;
             this.Mute.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.Mute.Location = new System.Drawing.Point(1127, 1434);
+            this.Mute.Location = new System.Drawing.Point(607, 672);
+            this.Mute.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.Mute.Name = "Mute";
-            this.Mute.Size = new System.Drawing.Size(150, 100);
+            this.Mute.Size = new System.Drawing.Size(81, 47);
             this.Mute.TabIndex = 9;
             this.Mute.UseVisualStyleBackColor = true;
             this.Mute.Click += new System.EventHandler(this.Mute_Click);
@@ -181,9 +191,10 @@
             // 
             this.UnMute.BackgroundImage = global::QuizApplicationSprintTwo.Properties.Resources.PlayIcon;
             this.UnMute.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.UnMute.Location = new System.Drawing.Point(1127, 1434);
+            this.UnMute.Location = new System.Drawing.Point(607, 672);
+            this.UnMute.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.UnMute.Name = "UnMute";
-            this.UnMute.Size = new System.Drawing.Size(150, 100);
+            this.UnMute.Size = new System.Drawing.Size(81, 47);
             this.UnMute.TabIndex = 10;
             this.UnMute.UseVisualStyleBackColor = true;
             this.UnMute.Click += new System.EventHandler(this.UnMute_Click);
@@ -191,18 +202,19 @@
             // TimerTick
             // 
             this.TimerTick.AutoSize = true;
-            this.TimerTick.Location = new System.Drawing.Point(603, 1296);
+            this.TimerTick.Location = new System.Drawing.Point(325, 608);
+            this.TimerTick.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.TimerTick.Name = "TimerTick";
-            this.TimerTick.Size = new System.Drawing.Size(78, 32);
+            this.TimerTick.Size = new System.Drawing.Size(38, 15);
             this.TimerTick.TabIndex = 11;
             this.TimerTick.Text = "label1";
             // 
             // VideoGamePictureRounds
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(13F, 32F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Yellow;
-            this.ClientSize = new System.Drawing.Size(1278, 1537);
+            this.ClientSize = new System.Drawing.Size(742, 548);
             this.Controls.Add(this.TimerTick);
             this.Controls.Add(this.UnMute);
             this.Controls.Add(this.Mute);
@@ -215,6 +227,8 @@
             this.Controls.Add(this.OptionThree);
             this.Controls.Add(this.OptionTwo);
             this.Controls.Add(this.OptionOne);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.Name = "VideoGamePictureRounds";
             this.Text = "VideoGamePictureRounds";
             this.Load += new System.EventHandler(this.VideoGamePictureRounds_Load);

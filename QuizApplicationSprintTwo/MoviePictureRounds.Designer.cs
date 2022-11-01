@@ -45,9 +45,10 @@
             // QuestionPic
             // 
             this.QuestionPic.Image = global::QuizApplicationSprintTwo.Properties.Resources.Villian;
-            this.QuestionPic.Location = new System.Drawing.Point(88, 163);
+            this.QuestionPic.Location = new System.Drawing.Point(50, 42);
+            this.QuestionPic.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.QuestionPic.Name = "QuestionPic";
-            this.QuestionPic.Size = new System.Drawing.Size(1113, 563);
+            this.QuestionPic.Size = new System.Drawing.Size(599, 264);
             this.QuestionPic.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.QuestionPic.TabIndex = 0;
             this.QuestionPic.TabStop = false;
@@ -58,9 +59,10 @@
             this.OptionOne.FlatAppearance.BorderSize = 0;
             this.OptionOne.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.OptionOne.ForeColor = System.Drawing.Color.White;
-            this.OptionOne.Location = new System.Drawing.Point(241, 849);
+            this.OptionOne.Location = new System.Drawing.Point(130, 349);
+            this.OptionOne.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.OptionOne.Name = "OptionOne";
-            this.OptionOne.Size = new System.Drawing.Size(300, 80);
+            this.OptionOne.Size = new System.Drawing.Size(162, 38);
             this.OptionOne.TabIndex = 1;
             this.OptionOne.Tag = "1";
             this.OptionOne.Text = "myButton1";
@@ -73,9 +75,10 @@
             this.OptionTwo.FlatAppearance.BorderSize = 0;
             this.OptionTwo.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.OptionTwo.ForeColor = System.Drawing.Color.White;
-            this.OptionTwo.Location = new System.Drawing.Point(742, 849);
+            this.OptionTwo.Location = new System.Drawing.Point(400, 349);
+            this.OptionTwo.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.OptionTwo.Name = "OptionTwo";
-            this.OptionTwo.Size = new System.Drawing.Size(300, 80);
+            this.OptionTwo.Size = new System.Drawing.Size(162, 38);
             this.OptionTwo.TabIndex = 2;
             this.OptionTwo.Tag = "2";
             this.OptionTwo.Text = "myButton2";
@@ -88,9 +91,10 @@
             this.OptionThree.FlatAppearance.BorderSize = 0;
             this.OptionThree.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.OptionThree.ForeColor = System.Drawing.Color.White;
-            this.OptionThree.Location = new System.Drawing.Point(241, 999);
+            this.OptionThree.Location = new System.Drawing.Point(130, 419);
+            this.OptionThree.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.OptionThree.Name = "OptionThree";
-            this.OptionThree.Size = new System.Drawing.Size(300, 80);
+            this.OptionThree.Size = new System.Drawing.Size(162, 38);
             this.OptionThree.TabIndex = 3;
             this.OptionThree.Tag = "3";
             this.OptionThree.Text = "myButton3";
@@ -103,9 +107,10 @@
             this.OptionFour.FlatAppearance.BorderSize = 0;
             this.OptionFour.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.OptionFour.ForeColor = System.Drawing.Color.White;
-            this.OptionFour.Location = new System.Drawing.Point(742, 999);
+            this.OptionFour.Location = new System.Drawing.Point(400, 419);
+            this.OptionFour.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.OptionFour.Name = "OptionFour";
-            this.OptionFour.Size = new System.Drawing.Size(300, 80);
+            this.OptionFour.Size = new System.Drawing.Size(162, 38);
             this.OptionFour.TabIndex = 4;
             this.OptionFour.Tag = "4";
             this.OptionFour.Text = "myButton4";
@@ -118,9 +123,10 @@
             this.OptionFive.FlatAppearance.BorderSize = 0;
             this.OptionFive.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.OptionFive.ForeColor = System.Drawing.Color.White;
-            this.OptionFive.Location = new System.Drawing.Point(241, 1155);
+            this.OptionFive.Location = new System.Drawing.Point(130, 492);
+            this.OptionFive.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.OptionFive.Name = "OptionFive";
-            this.OptionFive.Size = new System.Drawing.Size(300, 80);
+            this.OptionFive.Size = new System.Drawing.Size(162, 38);
             this.OptionFive.TabIndex = 5;
             this.OptionFive.Tag = "5";
             this.OptionFive.Text = "myButton5";
@@ -133,9 +139,10 @@
             this.OptionSix.FlatAppearance.BorderSize = 0;
             this.OptionSix.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.OptionSix.ForeColor = System.Drawing.Color.White;
-            this.OptionSix.Location = new System.Drawing.Point(742, 1155);
+            this.OptionSix.Location = new System.Drawing.Point(400, 492);
+            this.OptionSix.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.OptionSix.Name = "OptionSix";
-            this.OptionSix.Size = new System.Drawing.Size(300, 80);
+            this.OptionSix.Size = new System.Drawing.Size(162, 38);
             this.OptionSix.TabIndex = 6;
             this.OptionSix.Tag = "6";
             this.OptionSix.Text = "myButton6";
@@ -145,9 +152,10 @@
             // QuestionDisp
             // 
             this.QuestionDisp.AutoSize = true;
-            this.QuestionDisp.Location = new System.Drawing.Point(241, 774);
+            this.QuestionDisp.Location = new System.Drawing.Point(130, 314);
+            this.QuestionDisp.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.QuestionDisp.Name = "QuestionDisp";
-            this.QuestionDisp.Size = new System.Drawing.Size(78, 32);
+            this.QuestionDisp.Size = new System.Drawing.Size(38, 15);
             this.QuestionDisp.TabIndex = 7;
             this.QuestionDisp.Text = "label1";
             // 
@@ -157,9 +165,10 @@
             this.Return.FlatAppearance.BorderSize = 0;
             this.Return.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Return.ForeColor = System.Drawing.Color.White;
-            this.Return.Location = new System.Drawing.Point(12, 12);
+            this.Return.Location = new System.Drawing.Point(6, 6);
+            this.Return.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.Return.Name = "Return";
-            this.Return.Size = new System.Drawing.Size(178, 72);
+            this.Return.Size = new System.Drawing.Size(96, 34);
             this.Return.TabIndex = 8;
             this.Return.Text = "Back";
             this.Return.UseVisualStyleBackColor = false;
@@ -169,9 +178,10 @@
             // 
             this.UnMute.BackgroundImage = global::QuizApplicationSprintTwo.Properties.Resources.PlayIcon;
             this.UnMute.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.UnMute.Location = new System.Drawing.Point(1116, 1361);
+            this.UnMute.Location = new System.Drawing.Point(601, 589);
+            this.UnMute.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.UnMute.Name = "UnMute";
-            this.UnMute.Size = new System.Drawing.Size(150, 100);
+            this.UnMute.Size = new System.Drawing.Size(81, 47);
             this.UnMute.TabIndex = 11;
             this.UnMute.UseVisualStyleBackColor = true;
             this.UnMute.Click += new System.EventHandler(this.UnMute_Click);
@@ -180,19 +190,20 @@
             // 
             this.Mute.BackgroundImage = global::QuizApplicationSprintTwo.Properties.Resources.MuteIcon;
             this.Mute.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.Mute.Location = new System.Drawing.Point(1116, 1361);
+            this.Mute.Location = new System.Drawing.Point(662, 501);
+            this.Mute.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.Mute.Name = "Mute";
-            this.Mute.Size = new System.Drawing.Size(150, 100);
+            this.Mute.Size = new System.Drawing.Size(81, 47);
             this.Mute.TabIndex = 12;
             this.Mute.UseVisualStyleBackColor = true;
             this.Mute.Click += new System.EventHandler(this.Mute_Click);
             // 
             // MoviePictureRounds
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(13F, 32F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Yellow;
-            this.ClientSize = new System.Drawing.Size(1278, 1537);
+            this.ClientSize = new System.Drawing.Size(742, 548);
             this.Controls.Add(this.Mute);
             this.Controls.Add(this.UnMute);
             this.Controls.Add(this.Return);
@@ -204,6 +215,8 @@
             this.Controls.Add(this.OptionTwo);
             this.Controls.Add(this.OptionOne);
             this.Controls.Add(this.QuestionPic);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.Name = "MoviePictureRounds";
             this.Text = "MoviePictureRounds";
             this.Load += new System.EventHandler(this.MoviePictureRounds_Load);
