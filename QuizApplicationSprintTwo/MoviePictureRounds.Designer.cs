@@ -44,9 +44,11 @@
             // 
             // QuestionPic
             // 
+            this.QuestionPic.Image = global::QuizApplicationSprintTwo.Properties.Resources.Villian;
             this.QuestionPic.Location = new System.Drawing.Point(88, 163);
             this.QuestionPic.Name = "QuestionPic";
             this.QuestionPic.Size = new System.Drawing.Size(1113, 563);
+            this.QuestionPic.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.QuestionPic.TabIndex = 0;
             this.QuestionPic.TabStop = false;
             // 

@@ -148,8 +148,8 @@
   <data name="Blizzard-Entertainment" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Blizzard-Entertainment.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Justice" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Justice.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="AGB_WZ_0309_TOUT" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\AGB_WZ_0309_TOUT.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="PlayIcon" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\PlayIcon.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -160,8 +160,11 @@
   <data name="Pokemon" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Pokemon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="AGB_WZ_0309_TOUT" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\AGB_WZ_0309_TOUT.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="MuteIcon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MuteIcon.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Justice" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Justice.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Minecraft" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Minecraft.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -178,7 +181,40 @@
   <data name="Doom" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Doom.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="MuteIcon" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\MuteIcon.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Apocalypsenow" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Apocalypsenow1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Batman" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Batman1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Godfather" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Godfather1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Halloween" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Halloween1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Jaws" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Jaws1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Lord" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Lord1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Marvel_Logo.svg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Marvel_Logo.svg1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Matrix" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Matrix1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Medi" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Medi1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Speed" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Speed1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Steven_Spielberg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Steven_Spielberg1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Villian" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Villian1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

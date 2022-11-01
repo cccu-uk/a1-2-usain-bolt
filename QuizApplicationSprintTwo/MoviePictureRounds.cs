@@ -99,7 +99,7 @@ namespace QuizApplicationSprintTwo
             {
                 case 1:
 
-                    QuestionPic.Image = Properties.Resources.
+                    QuestionPic.Image = Properties.Resources.Matrix;
 
                     QuestionDisp.Text = "What colour pill does Neo take in the matrix?";
 
@@ -132,6 +132,8 @@ namespace QuizApplicationSprintTwo
 
                 case 2:
 
+                    QuestionPic.Image = Properties.Resources.Marvel_Logo_svg;
+
                     QuestionDisp.Text = "What movie saved marvel from bankcruptcy";
 
                     OptionOne.Text = "Spiderman";
@@ -161,6 +163,7 @@ namespace QuizApplicationSprintTwo
                     break;
                 
                 case 3:
+                    QuestionPic.Image = Properties.Resources.Godfather;
 
                     QuestionDisp.Text = "The head of what kind of animal is front-and-center in an infamous scene from The Godfather?";
 
@@ -196,6 +199,8 @@ namespace QuizApplicationSprintTwo
 
                 case 4:
 
+                    QuestionPic.Image = Properties.Resources.Steven_Spielberg;
+
                     QuestionDisp.Text = "For what movie did Steven Spielberg win his first Oscar for Best Director?";
 
                     OptionOne.Text = "War of The Worlds";
@@ -228,6 +233,9 @@ namespace QuizApplicationSprintTwo
                     break;
 
                 case 5:
+                   
+                    QuestionPic.Image = Properties.Resources.Lord;
+
 
                     QuestionDisp.Text = "Who is the only actor to receive an Oscar nomination for acting in a Lord of the Rings movie?";
 
@@ -259,6 +267,8 @@ namespace QuizApplicationSprintTwo
 
                 case 6:
 
+                    QuestionPic.Image = Properties.Resources.Batman;
+
                     QuestionDisp.Text = "Who took over the role of Bruce Wayne's love interest Rachel Dawes in The Dark Knight, following Katie Holmes's exit after Batman Begins?";
 
                     OptionOne.Text = "Maggie Gyllenhaal";
@@ -286,6 +296,8 @@ namespace QuizApplicationSprintTwo
                     break;
 
                 case 7:
+
+                    QuestionPic.Image = Properties.Resources.Halloween;
 
                     QuestionDisp.Text = "Who wrote the famous, scary theme music from Halloween?";
 
@@ -316,6 +328,8 @@ namespace QuizApplicationSprintTwo
                     break;
 
                 case 8:
+
+                    QuestionPic.Image = Properties.Resources.Apocalypsenow;
 
                     QuestionDisp.Text = "In Apocalypse Now, Robert Duvall says, \"I love the smell of _____ in the morning.";
 
@@ -349,6 +363,8 @@ namespace QuizApplicationSprintTwo
 
                 case 9:
 
+                    QuestionPic.Image = Properties.Resources.Jaws;
+
                     QuestionDisp.Text = "What is the name of Quint's shark-hunting boat in Jaws?";
 
                     OptionOne.Text = "Poseidon";
@@ -380,6 +396,8 @@ namespace QuizApplicationSprintTwo
 
                 case 10:
 
+                    QuestionPic.Image = Properties.Resources.Speed;
+
                     QuestionDisp.Text = "In the action thriller Speed, why is Annie (Sandra Bullock)'s driver's license suspended?";
 
                     OptionOne.Text = "Speeding";
@@ -407,6 +425,8 @@ namespace QuizApplicationSprintTwo
                     break;
 
                 case 11:
+
+                    QuestionPic.Image = Properties.Resources.Medi;
 
                     QuestionDisp.Text = "The Battle of Thermopylae served as the basis of what highly stylized smash hit swords-and-sandals action flick?";
 
@@ -440,6 +460,9 @@ namespace QuizApplicationSprintTwo
 
 
                 case 12:
+
+
+                    QuestionPic.Image = Properties.Resources.Villian;
 
                     QuestionDisp.Text = "What villian was most for saying notorious \" I Am Inevitable\" ";
 
